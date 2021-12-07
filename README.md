@@ -4,6 +4,7 @@ Welcome to My First Repositories, these are Plugins for GTA San Andreas where yo
 but it's WIP, to try this mod you need to clone this repository by download the reposirory or use Git Bash.
 
 I have add few weapons:
+
 -Rocket Launcher (Slot 1)
 -AK47 (Slot 1)
 -Colt 45 (Slot 1)
