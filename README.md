@@ -10,8 +10,6 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 -Shotgun (Slot 1)
 -Micro Uzi (Slot 1).
 
-I'll add all weapons if it possible.
-
 # Requirements
 - Visual Studio 2017, 2019
 - Plugin-SDK
