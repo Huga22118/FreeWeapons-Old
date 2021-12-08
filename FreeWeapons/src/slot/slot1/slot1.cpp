@@ -7,9 +7,9 @@
 
 using namespace plugin;
 
-class FreeWeaponByHuga {
+class FreeWeaponByHuga1 {
 public:
-	FreeWeaponByHuga()
+	FreeWeaponByHuga1()
 	{
 		static int keyPressTime = 0;
 		Events::gameProcessEvent += []
@@ -57,4 +57,4 @@ public:
 		    }
 		};
 	}
-} FreeWeaponByHuga;
+} FreeWeaponByHuga1;
