@@ -7,9 +7,9 @@
 
 using namespace plugin;
 
-class PlayerWeapon {
+class FreeWeaponByHuga {
 public:
-	PlayerWeapon()
+	FreeWeaponByHuga()
 	{
 		static int keyPressTime = 0;
 		Events::gameProcessEvent += []
@@ -23,6 +23,8 @@ public:
 			CStreaming::RequestModel(MODEL_COLT45, 2);
 			CStreaming::RequestModel(MODEL_CHROMEGUN, 2);
 			CStreaming::RequestModel(MODEL_CUNTGUN, 2);
+			CStreaming::RequestModel(MODEL_SATCHEL, 2);
+			CStreaming::RequestModel(MODEL_BOMB, 2);
 			CStreaming::LoadAllRequestedModels(false);
 			hugav1->GiveWeapon(WEAPON_AK47, 1000, true);
 			hugav1->GiveWeapon(WEAPON_MICRO_UZI, 1000, true);
@@ -30,19 +32,25 @@ public:
 			hugav1->GiveWeapon(WEAPON_SHOTGUN, 1000, true);
 			hugav1->GiveWeapon(WEAPON_RLAUNCHER, 1000, true);
 			hugav1->GiveWeapon(WEAPON_COUNTRYRIFLE, 1000, true);
+			hugav1->GiveWeapon(WEAPON_SATCHEL_CHARGE, 1000, true);
+			hugav1->GiveWeapon(WEAPON_DETONATOR, 1000, true);
 			hugav1->SetCurrentWeapon(WEAPON_AK47);
 			hugav1->SetCurrentWeapon(WEAPON_PISTOL);
 			hugav1->SetCurrentWeapon(WEAPON_MICRO_UZI);
 			hugav1->SetCurrentWeapon(WEAPON_SHOTGUN);
 			hugav1->SetCurrentWeapon(WEAPON_RLAUNCHER);
 			hugav1->SetCurrentWeapon(WEAPON_COUNTRYRIFLE);
+			hugav1->SetCurrentWeapon(WEAPON_SATCHEL_CHARGE);
+			hugav1->SetCurrentWeapon(WEAPON_DETONATOR);
 			CStreaming::SetModelIsDeletable(MODEL_AK47);
 			CStreaming::SetModelIsDeletable(MODEL_ROCKETLA);
 			CStreaming::SetModelIsDeletable(MODEL_COLT45);
 			CStreaming::SetModelIsDeletable(MODEL_MICRO_UZI);
 			CStreaming::SetModelIsDeletable(MODEL_CHROMEGUN);
 			CStreaming::SetModelIsDeletable(MODEL_CUNTGUN);
+			CStreaming::SetModelIsDeletable(MODEL_SATCHEL);
+			CStreaming::SetModelIsDeletable(MODEL_BOMB);
 		    }
 		};
 	}
-} playerWeapon;
+} FreeWeaponByHuga;
