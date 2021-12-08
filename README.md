@@ -8,7 +8,11 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - AK47 (Slot 1)
 - Colt 45 (Slot 1)
 - Shotgun (Slot 1)
-- Micro Uzi (Slot 1).
+- Micro Uzi (Slot 1)
+- Country Rifle (Slot 1)
+- Satchel Charges (Slot 1)
+- Night Vision (Slot 1)
+- M4 (Slot 2).
 
 i'll add all weapons except knifes & parachute 
 
