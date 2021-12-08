@@ -7,6 +7,9 @@
     <Filter Include="slot2">
       <UniqueIdentifier>{accf10eb-0c28-4209-b569-62cb4510ad14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="slot3">
+      <UniqueIdentifier>{3c64b1a6-93cf-403e-9513-eb8d44b31e1f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\slot\slot1\slot1.cpp">
@@ -14,6 +17,9 @@
     </ClCompile>
     <ClCompile Include="src\slot\slot2\slot2.cpp">
       <Filter>slot2</Filter>
+    </ClCompile>
+    <ClCompile Include="src\slot\slot3\slot3.cpp">
+      <Filter>slot3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
