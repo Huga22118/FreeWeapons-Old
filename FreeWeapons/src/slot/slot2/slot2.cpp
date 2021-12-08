@@ -20,13 +20,17 @@ public:
 			{
 				CStreaming::RequestModel(MODEL_M4, 2);
 				CStreaming::RequestModel(MODEL_SILENCED, 2);
+				CStreaming::RequestModel(MODEL_SNIPER, 2);
 				CStreaming::LoadAllRequestedModels(false);
 				hugav2->GiveWeapon(WEAPON_M4, 1000, true);
 				hugav2->GiveWeapon(WEAPON_PISTOL_SILENCED, 1000, true);
+				hugav2->GiveWeapon(WEAPON_SNIPERRIFLE, 1000, true);
 				hugav2->SetCurrentWeapon(WEAPON_M4);
 				hugav2->SetCurrentWeapon(WEAPON_PISTOL_SILENCED);
+				hugav2->SetCurrentWeapon(WEAPON_SNIPERRIFLE);
 				CStreaming::SetModelIsDeletable(MODEL_M4);
 				CStreaming::SetModelIsDeletable(MODEL_SILENCED);
+				CStreaming::SetModelIsDeletable(MODEL_SNIPER);
 			}
 		};
 	}
