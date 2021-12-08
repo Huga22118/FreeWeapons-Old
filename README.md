@@ -1,9 +1,9 @@
 # Free Weapons For GTA San Andreas (On Progress)
 Welcome to My First Repositories, these are Plugins for GTA San Andreas where you can get weapons by press a button.
 
-but it's WIP, to try this mod you need to clone this repository by download the reposirory or use Git Bash.
+but it's WIP, to try this mod you need to clone this repository by download the repository or use Git Bash.
 
-# Added Few Weapons
+# Added Weapons
 - Rocket Launcher (Slot 1)
 - AK47 (Slot 1)
 - Colt 45 (Slot 1)
