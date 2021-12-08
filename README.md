@@ -3,9 +3,14 @@ Welcome to My First Repositories, these are Plugins for GTA San Andreas where yo
 
 but it's WIP, to try this mod you need to clone this repository by download the reposirory or use Git Bash.
 
-I only add ak47, micro uzi, colt45, shotgun.
+# Added Few Weapons
+- Rocket Launcher (Slot 1)
+- AK47 (Slot 1)
+- Colt 45 (Slot 1)
+- Shotgun (Slot 1)
+- Micro Uzi (Slot 1).
 
-I'll add all weapons if it possible.
+i'll add all weapons except knifes & parachute 
 
 # Requirements
 - Visual Studio 2017, 2019
