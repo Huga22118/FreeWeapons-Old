@@ -1,6 +1,6 @@
 /*
 	Plugins by Huga
-	Slot 1 On Progress
+	Slot 1 Completed
 */
 #include "plugin.h"
 #include "stuff.h"
