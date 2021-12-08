@@ -11,12 +11,9 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Micro Uzi (Slot 1)
 - Country Rifle (Slot 1)
 - Satchel Charges (Slot 1)
-<<<<<<< HEAD
 - Night Vision (Slot 1)
-- M4 (Slot 2).
-=======
-- Night Vision (Slot 1).
->>>>>>> 8a665b053b0a8593361330390444f46dd12a2fe1
+- M4 (Slot 2)
+- Silenced Colt45 (Slot 2).
 
 i'll add all weapons except knifes & parachute 
 
