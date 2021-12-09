@@ -23,9 +23,9 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 i'll add all weapons except knifes & parachute 
 
 # Requirements
-- Visual Studio 2017, 2019
+- Visual Studio 2017, 2019 (2015 no longer working for this mods but try it yourself).
 - Plugin-SDK
-- Code::Blocks for Plugin-SDK (if you have Visual Studio 2015/2017/2019 then use vs).
+- Code::Blocks for Plugin-SDK (if you have Visual Studio then use it).
 
 # Keys
 - F8 for Slot 1
