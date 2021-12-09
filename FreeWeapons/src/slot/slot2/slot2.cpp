@@ -1,6 +1,6 @@
 /*
     Plugins by Huga
-	Slot 2 On Progress
+	Slot 2 Completed
 */
 #include "plugin.h"
 #include "stuff.h"
@@ -25,6 +25,7 @@ public:
 				CStreaming::RequestModel(MODEL_HEATSEEK, 2);
 				CStreaming::RequestModel(MODEL_MP5LNG, 2);
 				CStreaming::RequestModel(MODEL_GRENADE, 2);
+				CStreaming::RequestModel(MODEL_IRGOGGLES, 2);
 				CStreaming::LoadAllRequestedModels(false);
 				hugav2->GiveWeapon(WEAPON_M4, 1000, true);
 				hugav2->GiveWeapon(WEAPON_PISTOL_SILENCED, 1000, true);
@@ -33,6 +34,7 @@ public:
 				hugav2->GiveWeapon(WEAPON_RLAUNCHER_HS, 1000, true);
 				hugav2->GiveWeapon(WEAPON_MP5, 1000, true);
 				hugav2->GiveWeapon(WEAPON_GRENADE, 1000, true);
+				hugav2->GiveWeapon(WEAPON_INFRARED, 1, true);
 				hugav2->SetCurrentWeapon(WEAPON_M4);
 				hugav2->SetCurrentWeapon(WEAPON_PISTOL_SILENCED);
 				hugav2->SetCurrentWeapon(WEAPON_SNIPERRIFLE);
@@ -40,6 +42,7 @@ public:
 				hugav2->SetCurrentWeapon(WEAPON_RLAUNCHER_HS);
 				hugav2->SetCurrentWeapon(WEAPON_MP5);
 				hugav2->SetCurrentWeapon(WEAPON_GRENADE);
+				hugav2->SetCurrentWeapon(WEAPON_INFRARED);
 				CStreaming::SetModelIsDeletable(MODEL_M4);
 				CStreaming::SetModelIsDeletable(MODEL_SILENCED);
 				CStreaming::SetModelIsDeletable(MODEL_SNIPER);
@@ -47,6 +50,7 @@ public:
 				CStreaming::SetModelIsDeletable(MODEL_HEATSEEK);
 				CStreaming::SetModelIsDeletable(MODEL_MP5LNG);
 				CStreaming::SetModelIsDeletable(MODEL_GRENADE);
+				CStreaming::SetModelIsDeletable(MODEL_IRGOGGLES);
 			}
 		};
 	}
