@@ -11,7 +11,7 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Micro Uzi (Slot 1)
 - Country Rifle (Slot 1)
 - Satchel Charges (Slot 1)
-- Night Vision Goggles(Slot 1)
+- Night Vision Goggles (Slot 1)
 - M4 (Slot 2)
 - Silenced Colt 45 (Slot 2)
 - Sniper Rifle (Slot 2)
