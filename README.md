@@ -16,7 +16,8 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Silenced Colt 45 (Slot 2)
 - Sniper Rifle (Slot 2)
 - SPAS-12 (Slot 2)
-- Heatseek (Slot 2).
+- Heatseek (Slot 2)
+- MP5 (Slot 2).
 
 i'll add all weapons except knifes & parachute 
 
