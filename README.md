@@ -19,7 +19,8 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Heatseek (Slot 2)
 - MP5 (Slot 2)
 - Grenade (Slot 2)
-- Infrared Goggles (Slot 2).
+- Infrared Goggles (Slot 2)
+- Desert Eagle (Slot 3).
 
 i'll add all weapons except knifes & parachute 
 
