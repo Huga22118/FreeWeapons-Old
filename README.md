@@ -17,7 +17,8 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Sniper Rifle (Slot 2)
 - SPAS-12 (Slot 2)
 - Heatseek (Slot 2)
-- MP5 (Slot 2).
+- MP5 (Slot 2)
+- Grenade (Slot 2).
 
 i'll add all weapons except knifes & parachute 
 
@@ -25,3 +26,7 @@ i'll add all weapons except knifes & parachute
 - Visual Studio 2017, 2019
 - Plugin-SDK
 - Code::Blocks for Plugin-SDK (if you have Visual Studio 2015/2017/2019 then use vs).
+
+# Keys
+- F8 for Slot 1
+- F7 for Slot 2.
