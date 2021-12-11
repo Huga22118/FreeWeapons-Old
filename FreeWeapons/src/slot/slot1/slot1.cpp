@@ -15,8 +15,9 @@ public:
 		Events::gameProcessEvent += []
 		{
 			CPed *hugav1 = FindPlayerPed();
-			if (hugav1 && KeyPressed(VK_F8) && CTimer::m_snTimeInMilliseconds - keyPressTime > 25)
+			if (hugav1 && KeyPressed(VK_F8) && CTimer::m_snTimeInMilliseconds - keyPressTime > 175)
 			{
+				keyPressTime = CTimer::m_snTimeInMilliseconds;
 			CStreaming::RequestModel(MODEL_AK47, 2);
 			CStreaming::RequestModel(MODEL_ROCKETLA, 2);
 			CStreaming::RequestModel(MODEL_MICRO_UZI, 2);
