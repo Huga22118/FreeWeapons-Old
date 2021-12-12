@@ -20,7 +20,8 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - MP5 (Slot 2)
 - Grenade (Slot 2)
 - Infrared Goggles (Slot 2)
-- Desert Eagle (Slot 3).
+- Desert Eagle (Slot 3)
+- Molotov (Slot 3).
 
 i'll add all weapons except knifes & parachute 
 
@@ -31,4 +32,5 @@ i'll add all weapons except knifes & parachute
 
 # Keys
 - F8 for Slot 1
-- F7 for Slot 2.
+- F7 for Slot 2
+- F6 for Slot 3.
