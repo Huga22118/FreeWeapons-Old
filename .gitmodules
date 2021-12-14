@@ -1,3 +1,6 @@
 [submodule "plugin-sdk"]
 	path = plugin-sdk
 	url = https://github.com/DK22Pac/plugin-sdk
+[submodule "rwd3d9"]
+	path = rwd3d9
+	url = https://github.com/aap/rwd3d9.git
