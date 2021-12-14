@@ -21,7 +21,8 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 - Grenade (Slot 2)
 - Infrared Goggles (Slot 2)
 - Desert Eagle (Slot 3)
-- Molotov (Slot 3).
+- Molotov (Slot 3)
+- Sawn-Off (Slot 3).
 
 i'll add all weapons except knifes & parachute 
 
