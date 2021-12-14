@@ -6,7 +6,8 @@ using namespace plugin;
 
 class FreeWeapons1 {
 public:
-	FreeWeapons1() {
+	FreeWeapons1() 
+	{
 		static int keyPressTime = 0;
 		Events::gameProcessEvent += []
 		{
@@ -15,6 +16,7 @@ public:
 			{
 				keyPressTime = CTimer::m_snTimeInMilliseconds;
 				playa->GiveWeapon(WEAPONTYPE_AK47, 1000);
+				playa->GiveWeapon(WEAPONTYPE_COLT45, 1000);
 			}
 		};
 
