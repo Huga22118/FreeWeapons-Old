@@ -1,5 +1,5 @@
 # Free Weapons For GTA III (On Progress)
-Welcome to My First Repositories, these are Plugins for GTAIII where you can get weapons by press a button.
+Welcome to My First Repositories on III Branch, these are Plugins for GTAIII where you can get weapons by press a button.
 
 but it's WIP, to try this mod you need to clone this repository by download the repository or use Git Bash.
 
