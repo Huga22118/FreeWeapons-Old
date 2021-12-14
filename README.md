@@ -12,6 +12,7 @@ This mod does not support Reversed Engineered GTAIII (re3).
 # Requirements
 - Visual Studio 2017, 2019 (2015 no longer working for this mods but try it yourself).
 - Plugin-SDK
+- rwd3d9 for Plugin-SDK (if needed)
 - Code::Blocks for Plugin-SDK (if you have Visual Studio then use it).
 
 # Keys
