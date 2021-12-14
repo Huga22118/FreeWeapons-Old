@@ -1,30 +1,13 @@
-# Free Weapons For GTA San Andreas (On Progress)
-Welcome to My First Repositories, these are Plugins for GTA San Andreas where you can get weapons by press a button.
+# Free Weapons For GTA III (On Progress)
+Welcome to My First Repositories, these are Plugins for GTAIII where you can get weapons by press a button.
 
 but it's WIP, to try this mod you need to clone this repository by download the repository or use Git Bash.
 
 # Added Weapons
-- Rocket Launcher (Slot 1)
-- AK47 (Slot 1)
-- Colt 45 (Slot 1)
-- Shotgun (Slot 1)
-- Micro Uzi (Slot 1)
-- Country Rifle (Slot 1)
-- Satchel Charges (Slot 1)
-- Night Vision Goggles (Slot 1)
-- M4 (Slot 2)
-- Silenced Colt 45 (Slot 2)
-- Sniper Rifle (Slot 2)
-- SPAS-12 (Slot 2)
-- Heatseek (Slot 2)
-- MP5 (Slot 2)
-- Grenade (Slot 2)
-- Infrared Goggles (Slot 2)
-- Desert Eagle (Slot 3)
-- Molotov (Slot 3)
-- Sawn-Off (Slot 3).
+- AK47.
 
-i'll add all weapons except knifes & parachute 
+# Note
+This mod does not support Reversed Engineered GTAIII (re3).
 
 # Requirements
 - Visual Studio 2017, 2019 (2015 no longer working for this mods but try it yourself).
@@ -32,6 +15,4 @@ i'll add all weapons except knifes & parachute
 - Code::Blocks for Plugin-SDK (if you have Visual Studio then use it).
 
 # Keys
-- F8 for Slot 1
-- F7 for Slot 2
-- F6 for Slot 3.
+F8
