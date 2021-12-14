@@ -44,7 +44,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GTA3 Release|Win32'">
     <OutDir>$(GTA_III_DIR)\</OutDir>
     <IntDir>$(ProjectDir).obj\GTA3\Release\</IntDir>
-    <TargetName>FreeWeaponsIII.III</TargetName>
+    <TargetName>FreeWeapons.III</TargetName>
     <TargetExt>.asi</TargetExt>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='GTA3 zDebug|Win32'">

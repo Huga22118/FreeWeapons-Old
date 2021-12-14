@@ -4,7 +4,8 @@ Welcome to My First Repositories on III Branch, these are Plugins for GTAIII whe
 but it's WIP, to try this mod you need to clone this repository by download the repository or use Git Bash.
 
 # Added Weapons
-- AK47.
+- AK47
+- Colt 45.
 
 # Note
 This mod does not support Reversed Engineered GTAIII (re3).
