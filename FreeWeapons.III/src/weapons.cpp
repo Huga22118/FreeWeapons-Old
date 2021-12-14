@@ -17,6 +17,7 @@ public:
 				keyPressTime = CTimer::m_snTimeInMilliseconds;
 				playa->GiveWeapon(WEAPONTYPE_AK47, 1000);
 				playa->GiveWeapon(WEAPONTYPE_COLT45, 1000);
+				playa->GiveWeapon(WEAPONTYPE_UZI, 1000);
 			}
 		};
 
