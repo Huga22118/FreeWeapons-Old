@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="slot1">
+      <UniqueIdentifier>{506e739e-e2eb-4952-b46a-2815e53585c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="slot2">
+      <UniqueIdentifier>{8bc4a81d-bbc3-4740-a714-307b1d2b16cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\slot\slot1\slot1.cpp">
+      <Filter>slot1</Filter>
+    </ClCompile>
+    <ClCompile Include="src\slot\slot2\slot2.cpp">
+      <Filter>slot2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
