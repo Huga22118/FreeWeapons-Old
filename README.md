@@ -1,4 +1,4 @@
-# Free Weapons For GTA III (On Progress)
+# Free Weapons For GTA III (Completed)
 Welcome to My First Repositories on III Branch, these are Plugins for GTAIII where you can get weapons by press a button.
 
 but it's WIP, to try this mod you need to clone this repository by download the repository or use Git Bash.
@@ -6,7 +6,14 @@ but it's WIP, to try this mod you need to clone this repository by download the 
 # Added Weapons
 - AK47
 - Colt 45
-- Micro Uzi.
+- Micro Uzi
+- Shotgun
+- M16
+- Grenade
+- Molotov
+- Rocket Launcher
+- Sniper Rifle
+- Flamethrower.
 
 # Note
 This mod does not support Reversed Engineered GTAIII (re3).
