@@ -22,7 +22,14 @@ public:
 			CPed *tommy2 = FindPlayerPed();
 			if (tommy2 && KeyPressed(VK_F7) && CTimer::m_snTimeInMilliseconds - keyPressTime > 175)
 			{
-
+				keyPressTime = CTimer::m_snTimeInMilliseconds;
+				CStreaming::RequestModel(MODEL_COLT45, 2);
+				CStreaming::RequestModel(MODEL_UZI, 2);
+				CStreaming::LoadAllRequestedModels(false);
+				tommy2->GiveWeapon(WEAPONTYPE_PISTOL, 1000, true);
+				tommy2->GiveWeapon(WEAPONTYPE_UZI, 1000, true);
+				CStreaming::SetModelIsDeletable(MODEL_COLT45);
+				CStreaming::SetModelIsDeletable(MODEL_UZI);
 			}
 		};
 	}

@@ -8,7 +8,9 @@ Welcome to My First Repositories on VC Branch, these are Plugins for GTAVC where
 - Grenade Detonator (Slot 1)
 - Stubby Shotgun (Slot 1)
 - Laser Scope (Slot 1) 
-- Silenced Micro Uzi (Slot 1).
+- Silenced Micro Uzi (Slot 1)
+- Colt 45 (Slot 2)
+- Uzi (Slot 2).
 
 # Note
 This mod does not support Reversed Engineered GTA Vice City (reVC).
